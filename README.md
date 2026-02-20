@@ -1,4 +1,5 @@
 
+
 # 🚀 HRMS Portal — Full Stack Human Resource Management System
 
 A secure and scalable full-stack authentication portal built with **React**, **Express**, **Sequelize**, and **MySQL**, styled using **TailAdmin** UI kit. This system features user login, registration, email-based password reset, session management, and more.
@@ -169,3 +170,7 @@ MCA Graduate | Full Stack Developer
 ---
 
 _Contributions welcome. Security matters more than features. Focus on clean, reusable, and testable code._
+=======
+# HRMS-System
+A comprehensive Full Stack Human Resource Management System (HRMS) featuring company and employee onboarding, task tracking, leave management, payroll processing, calendar scheduling, and secure authentication. Built using modern web technologies with MySQL database integration.
+
